@@ -43,7 +43,7 @@ const Footer = () => {
               className="hk-footer__logo-link"
             >
               <img
-                src="./img/logo.png"
+                src="./img/logo1.png"
                 alt="Om Engineering Works"
                 className="hk-footer__logo"
                 loading="lazy"
@@ -63,20 +63,20 @@ const Footer = () => {
             <div className="hk-footer__socials">
 
               <a
-                href="#"
+                href="https://www.facebook.com/trustlkitchensink/"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Om Engineering Works on Facebook"
+                aria-label=""
               >
                 <FaFacebookF />
               </a>
 
 
               <a
-                href="#"
+                href="https://www.instagram.com/trustlkitchensink/?fbclid=IwY2xjawU-rQhleHRuA2FlbQIxMQBwZG9mBHNydGMGYXBwX2lkATAAAR4sLQkOJs0sSvqLrOAfF9_CoSurMZv7TiZjBCTvSwVEJp3Cac0_XLCMUk2hlw_aem__CzFjO2HxxFbG6Jmwnhmeg"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Om Engineering Works on Instagram"
+                aria-label=""
               >
                 <FaInstagram />
               </a>
@@ -230,7 +230,7 @@ const Footer = () => {
             {/* EMAIL */}
 
             <a
-              href="mailto:trustl@gmail.com"
+              href="mailto:pankajgarg625@gmail.com"
               className="hk-footer-contact"
             >
 
@@ -239,7 +239,7 @@ const Footer = () => {
               </span>
 
               <span>
-                trustl@gmail.com
+                pankajgarg625@gmail.com
               </span>
 
             </a>
@@ -259,7 +259,8 @@ const Footer = () => {
               </span>
 
               <span>
-                Kh. No. 581, Ground Floor, Street No. 25, Village Siraspur City, Delhi - 110042, India
+                
+J-238, Sec-1, Bawana Industrial Area, Delhi, India, Delhi
               </span>
 
             </a>

@@ -11,7 +11,7 @@ const announcements = [
     "HIGH-QUALITY PLASTIC EXTRUSION MACHINES AT COMPETITIVE PRICES",
     "EXPLORE OUR PVC BRAIDED HOSE PIPE PLANTS & HIGH SPEED MIXERS",
     "CONTACT US FOR MACHINE DETAILS & BULK ENQUIRIES",
-    "CALL +91 79711 90739 FOR PRODUCT INFORMATION & QUOTATIONS",
+    "CALL +91 9810382066 FOR PRODUCT INFORMATION & QUOTATIONS",
 ];
 
 // ======================================
@@ -279,7 +279,7 @@ const Navbar = () => {
                             {/* RIGHT SIDE */}
                             <div className="oe-navbar-actions">
                                 <a
-                                    href="tel:+917971190739"
+                                    href="tel:+91 +919810382066"
                                     className="oe-phone"
                                 >
                                     <span className="oe-phone-icon">
@@ -296,7 +296,7 @@ const Navbar = () => {
                                             <path d="M22 16.92v3a2 2 0 0 1-2.18 2A19.79 19.79 0 0 1 3.09 5.18 2 2 0 0 1 5.08 3h3a2 2 0 0 1 2 1.72c.12.96.35 1.9.68 2.81a2 2 0 0 1-.45 2.11L9.03 10.9a16 16 0 0 0 4.07 4.07l1.27-1.28a2 2 0 0 1 2.11-.45c.91.33 1.85.56 2.81.68A2 2 0 0 1 22 16.92Z" />
                                         </svg>
                                     </span>
-                                    <span>+91 79711 90739</span>
+                                    <span> +91 9810382066</span>
                                 </a>
 
                                 <Link
